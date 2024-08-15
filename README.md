@@ -1,10 +1,10 @@
 ## 環境情報
 
 - **言語** : `TypeScript`
-- **UIライブラリ** : `React v18.2.0`
-- **スタイリング** : `styled-components v6.1.8`
-- **リンター** : `eslint v8.56.0`
-- **フォーマッター** : `prettier v3.2.4`
+- **UIライブラリ** : `React v18`
+- **スタイリング** : `styled-components`
+- **リンター** : `eslint`
+- **フォーマッター** : `prettier`
 - **UIカタログ** : `Storybook`
 
 ## コマンド一覧
