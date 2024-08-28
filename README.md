@@ -31,7 +31,7 @@
 - `routes`
   : React Routerルーティング関連
 - `theme`
-  : styled-componentsにおけるCSSヘルパー関数や固定値の管理
+  : プロジェクト全体で使用する固定値の管理、styled-componentsにおけるCSSヘルパー関数や固定値の管理
 - `libs`
   : 外部ライブラリの設定
 - `api`
